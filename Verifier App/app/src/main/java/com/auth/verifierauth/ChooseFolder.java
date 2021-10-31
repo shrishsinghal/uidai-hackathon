@@ -129,7 +129,7 @@ public class ChooseFolder extends AppCompatActivity {
         SharedPreferences shf = getSharedPreferences(getString(R.string.sharedpref), MODE_PRIVATE);
         String foldName = shf.getString("folderPath", null);
 
-        if(foldName == null) {
+        if(foldName != null) {
             // do some thing
             uploadFold.setText("change folder");
             foldImageView.setVisibility(View.VISIBLE);
