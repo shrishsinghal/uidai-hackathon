@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Res_auth</string>
+    <string name="EKYC_X_REQUEST_ID">X-Request-ID</string>
+    <string name="EKYC_APP_ID">appID</string>
+    <string name="EKYC_TRANSACTION_ID">transactionId</string>
+    <string name="EKYC_APP_ID_VALUE">PORTAL</string>
+    <string name="EKYC_SHARE_CODE">1234</string>
+    <string name="CAPTCHA_LANG_CODE">en</string>
+    <string name="CAPTCHA_LENGTH">3</string>
+    <string name="CAPTCHA_TYPE">2</string>
+    <string name="OTP_X_REQUEST_ID">x-request-id</string>
+    <string name="OTP_APPID">appid</string>
+    <string name="OTP_ACCEPT_LANGUAGE">Accept-Language</string>
+    <string name="OTP_APPID_VALUE">MYAADHAAR</string>
+    <string name="OTP_ACCEPT_LANGUAGE_VALUE">en_in</string>
+    <string name="STAGING_UID">999977788124</string>
+    <string name="TRANSACTION_ID">MYAADHAAR:59142477-3f57-465d-8b9a-75b28fe48725</string>
+    <string name="DIRECTORY_PATH">C:/Users/singh/Desktop/hack/working folder/store xml/</string>
+
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sharedpref">mySharedPref</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
